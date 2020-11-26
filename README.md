@@ -1,1 +1,2 @@
-# 👨‍💻 frontend-challenges
+👨‍💻 frontend-challenges
+Frontend practice projects to get my feet wet and improve. 
